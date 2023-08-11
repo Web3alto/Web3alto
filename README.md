@@ -1,5 +1,3 @@
-<div style="display: flex; flex-direction: column; justify-content: center; min-height: 100vh;">
-
 # 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/1001219015521345656) [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AltoWeb3)
 
